@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Movie Finder</string>
+
+    <string name="movie_image">Movie Image</string>
+    <string name="movie_title">Movie Title (2018)</string>
+    <string name="movie_trailer">Play trailer</string>
+    <string name="movie_favorites">Add to Favorites</string>
+    <string name="movie_description">Overview</string>
+    <string name="movie_reviews">Reviews</string>
+
+    <string name="hint_description">The movie description goes here. It will tell you vital details about the movie like summary, director, main actors, etc.</string>
+    <string name="hint_reviews">A list of reviews goes here</string>
 </resources>
